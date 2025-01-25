@@ -21,6 +21,21 @@ A simple and interactive web application that generates random colors and displa
 
 ---
 
+## Project Structure
+
+```plaintext
+random-color-generator/
+├── index.html        # Main HTML file
+├── css/              # Folder for all CSS files
+│   └── style.css     # CSS file for styling
+├── js/               # Folder for all JavaScript files
+│   └── script.js     # JavaScript file for functionality
+├── README.md         # Project documentation (README file)
+└── assets/           # (Optional) Folder for images, fonts, etc.
+```
+
+---
+
 ## How to Use
 
 1. **Clone this repository**:
@@ -45,17 +60,6 @@ A simple and interactive web application that generates random colors and displa
 
 ---
 
-## Project Structure
-
-random-color-generator/
-│
-├── index.html # Main HTML file
-├── css/ # Folder for all CSS files
-│ └── style.css # CSS file for styling
-├── js/ # Folder for all JavaScript files
-│ └── script.js # JavaScript file for functionality
-├── README.md # Project documentation (README file)
-
 ## Screenshot
 
 ![Screenshot](https://your-screenshot-link-here)
@@ -77,4 +81,4 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 ## Feedback
 
-If you have any feedback, suggestions, or questions, please feel free to contact me at **nikhilshukla2161@gmail.com** or raise an issue in the repository.
+If you have any feedback, suggestions, or questions, please feel free to contact me at **your-email@example.com** or raise an issue in the repository.
