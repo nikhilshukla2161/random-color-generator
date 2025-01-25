@@ -31,8 +31,12 @@ random-color-generator/
 ├── js/               # Folder for all JavaScript files
 │   └── script.js     # JavaScript file for functionality
 ├── README.md         # Project documentation (README file)
-└── assets/           # (Optional) Folder for images, fonts, etc.
+
 ```
+
+## Live Preview
+
+You can view the live preview of this project here: [Live Demo](https://nikhilshukla2161.github.io/random-color-generator/).
 
 ---
 
@@ -40,7 +44,7 @@ random-color-generator/
 
 1. **Clone this repository**:
    ```bash
-   git clone https://github.com/your-username/random-color-generator.git
+   git clone  https://github.com/nikhilshukla2161/random-color-generator.git
    ```
 2. **Navigate to the project directory**:
    ```bash
@@ -60,12 +64,6 @@ random-color-generator/
 
 ---
 
-## Screenshot
-
-![Screenshot](https://your-screenshot-link-here)
-
----
-
 ## Contributing
 
 Contributions are welcome!  
@@ -81,4 +79,4 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 ## Feedback
 
-If you have any feedback, suggestions, or questions, please feel free to contact me at **your-email@example.com** or raise an issue in the repository.
+If you have any feedback, suggestions, or questions, please feel free to contact me at **nikhilshukla2161@gmail.com** or raise an issue in the repository.
