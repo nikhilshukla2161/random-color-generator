@@ -1,0 +1,56 @@
+/* Importing Google Fonts: Open Sans, Roboto, and Source Code Pro */
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Roboto:ital,wght@0,100..900;1,100..900&family=Source+Code+Pro:ital,wght@0,300;1,300&display=swap");
+
+/* Resetting default margin and padding for all elements */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; /* Ensures padding and border are included in the element's total width and height */
+  font-family: "Open Sans", serif; /* Default font for all elements */
+}
+
+/* Body styling */
+body {
+  transition: 0.5s; /* Smooth transition for background color changes */
+}
+
+/* Main wrapper for the content */
+.main {
+  width: 100%; /* Full width of the viewport */
+  height: 100vh; /* Full height of the viewport */
+  display: flex; /* Flexbox for centering content */
+  justify-content: center; /* Center content horizontally */
+  align-items: center; /* Center content vertically */
+}
+
+/* Container styling */
+.container {
+  width: 30rem; /* Fixed width for the container */
+  padding: 10px; /* Inner spacing */
+  border-radius: 10px; /* Rounded corners */
+  font-size: 40px; /* Large text size */
+  background-color: white; /* White background */
+  text-align: center; /* Center-align text */
+}
+
+/* Styling for the copy button */
+#copy {
+  background-color: rgb(
+    98,
+    140,
+    147
+  ); /* Distinct background color for the copy button */
+}
+
+/* General styling for buttons */
+button {
+  font-size: 40px; /* Large text size for buttons */
+  display: block; /* Buttons take full width */
+  width: 100%; /* Buttons span the entire width of the container */
+  background-color: black; /* Black background for buttons */
+  border: none; /* No border for a clean look */
+  border-radius: 5px; /* Slightly rounded corners */
+  color: white; /* White text color for contrast */
+  margin-top: 5px; /* Space between buttons */
+  cursor: pointer; /* Pointer cursor on hover */
+}
